@@ -12,7 +12,7 @@
 #include "gl/GL.h"
 #include "gl/GLU.h"
 
-/*
+/*---
 === ABOUT GL INCLUDE ===
 #include <~~~>   ,    <~~~> is "GLU.h" or "glu.h" or "gl/GLU.h" or "gl/glu.h" or "GL/GLU.h" etc.
 It depends on your environment, but maybe Qt supported any word above for this matter.
