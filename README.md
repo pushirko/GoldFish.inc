@@ -4,6 +4,7 @@ GoldFish.inc
 this is a version control system.
 
 これはオンラインでプロジェクトフォルダを管理するGitHubというWebサービスを使用しています。
+
 実際にGitHubにフォルダをアップロードしたりダウンロードするには、
 Gitというターミナルコマンドを使いこなさなければなりません。
 
