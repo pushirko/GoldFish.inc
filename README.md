@@ -30,7 +30,7 @@ Gitが持つ便利機能を、このソフトウェアで使用することが�
     
     open GoldFish.inc Wiki page
     open issue page
-    Wiki項目とissue項目を開設。
+    Wiki項目とIssues項目を開設。
     Githubページの上部にあるツールバー("Code","Network"とかかいてあるバー)から移動できる。
 
 
