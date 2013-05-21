@@ -1,6 +1,6 @@
 GoldFish.inc
 ============
-
+あああああああ
 Github概要 Github overview
 -------
 これはオンラインでプロジェクトフォルダを管理する"GitHub"というWebサービスです。
